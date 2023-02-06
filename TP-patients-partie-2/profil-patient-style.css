@@ -1,0 +1,36 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #008080;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  input[type="text"], input[type="email"], input[type="date"], input[type="tel"] {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  input[type="submit"] {
+    background-color: #008080;
+    color: #fff;
+    padding: 10px 20px;
+    border: 0;
+    cursor: pointer;
+  }
+  

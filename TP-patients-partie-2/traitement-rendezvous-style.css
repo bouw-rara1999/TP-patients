@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  table {
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid gray;
+  }
+  
+  th {
+    background-color: lightgray;
+  }
+  
+  a {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
